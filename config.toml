@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://danilka4.github.io/'
 languageCode = 'en-us'
 title = 'Website of Daniel Palamarchuk'
 theme = 'blackburn'
