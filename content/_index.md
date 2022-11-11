@@ -6,4 +6,5 @@ draft: false
 Welcome to my site.
 Right now I don't have much, just the About me page in the top left.
 Hopefully over the next few days I'll add more stuff.
+There will probably be a resume section and a hobbies section.
 Thank you for making this a project, Professor Yu.
