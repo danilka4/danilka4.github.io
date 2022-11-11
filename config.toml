@@ -9,3 +9,6 @@ theme = 'blackburn'
     weight = 2
     identifier = "about"
     url = "/about/"
+
+[Params]
+    subtitle = "Personal Website"
