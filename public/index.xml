@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
-    <link>http://example.org/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <title>Daniel Palamarchuk on Website of Daniel Palamarchuk</title>
+    <link>https://danilka4.github.io/</link>
+    <description>Recent content in Daniel Palamarchuk on Website of Daniel Palamarchuk</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Thu, 10 Nov 2022 18:49:24 -0500</lastBuildDate><atom:link href="https://danilka4.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://danilka4.github.io/about/</link>
+      <pubDate>Thu, 10 Nov 2022 18:49:24 -0500</pubDate>
+      
+      <guid>https://danilka4.github.io/about/</guid>
+      <description>My name is Daniel Palamarchuk. This website was made using the Hugo framework and uses md.</description>
+    </item>
+    
   </channel>
 </rss>
