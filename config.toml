@@ -3,12 +3,35 @@ languageCode = 'en-us'
 title = 'Website of Daniel Palamarchuk'
 theme = 'blackburn'
 
-[[menu.main]]
-    name = "About"
-    pre = "<i class='fa fa-user fa-fw'></i>"
-    weight = 2
-    identifier = "about"
-    url = "/about/"
-
 [Params]
     subtitle = "Personal Website"
+
+[menu]
+    [[menu.main]]
+        name = "About Me"
+        pre = "<i class='fa fa-user fa-fw'></i>"
+        weight = 1
+        identifier = "about"
+        url = "/"
+
+    [[menu.main]]
+        name = "Resume"
+        pre = "<i class='fa fa-list-ul'></i>"
+        weight = 2
+        identifier = "resume"
+        url = "/resume/"
+
+    [[menu.main]]
+        name = "Projects"
+        pre = "<i class='fas fa-code'></i>"
+        weight = 3
+        identifier = "projects"
+        url = "/projects/"
+
+    [[menu.main]]
+        name = "Hobbies"
+        pre = "<i class='fas fa-book-reader'></i>"
+        weight = 4
+        identifier = "hobbies"
+        url = "/hobbies/"
+
