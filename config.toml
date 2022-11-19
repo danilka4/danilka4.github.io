@@ -35,3 +35,7 @@ theme = 'blackburn'
         identifier = "hobbies"
         url = "/hobbies/"
 
+[social]
+    linkedin = "daniel-palamarchuk"
+    github   = "danilka4"
+    instagram= "daniel.palamarchuk"
