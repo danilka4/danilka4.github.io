@@ -5,4 +5,15 @@ date: 2022-11-19T02:04:14-05:00
 
 # Education
 
+* **Ongoing** Master's in Engineering Computer Science and Applications at Virginia Tech, 2022-Present
+* **Ongoing** Bachelor's in Computational Modeling and Data Analytics at Virginia Tech, 2019-Present
+* **Ongoing** Bachelor's in Computer Science at Virginia Tech, 2019-Present
 
+# Work Experience
+
+* Undergraduate Research Assistant for Dr. Andrew Scerri, 2021-Present
+    - Analyzed Virginia state environmental bill and lobbying data
+    - Created a [web dashboard](../dashboard.html) using R to visualize findings.
+* Substitute Teacher at the Russian School of Mathematics in Reston and Herndon, VA, 2019-Present
+    - Taught math team, a course in HTML, and two courses in Python
+* Senior Student Tutor at the Russian School of Mathematics in Winchester, MA, 2015-2019
