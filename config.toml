@@ -8,8 +8,8 @@ theme = 'blackburn'
 
 [menu]
     [[menu.main]]
-        name = "About Me"
-        pre = "<i class='fa fa-user fa-fw'></i>"
+        name = "Home"
+        pre = "<i class='fas fa-home'></i>"
         weight = 1
         identifier = "about"
         url = "/"
