@@ -1,5 +1,5 @@
 ---
-title: Welcome
+title: Home
 date: 2022-11-10T18:49:24-05:00
 draft: false
 ---
