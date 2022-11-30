@@ -2,9 +2,13 @@ baseURL = 'https://danilka4.github.io/'
 languageCode = 'en-us'
 title = 'Website of Daniel Palamarchuk'
 theme = 'blackburn'
-
 [Params]
     subtitle = "Personal Website"
+
+[markup]
+    [markup.goldmark]
+        [markup.goldmark.renderer]
+            unsafe = true
 
 [menu]
     [[menu.main]]

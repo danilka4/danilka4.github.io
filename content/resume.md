@@ -15,5 +15,5 @@ date: 2022-11-19T02:04:14-05:00
     - Analyzed Virginia state environmental bill and lobbying data
     - Created a [web dashboard](https://danilka4.github.io/Scerri-Lobbying-2021/) using R to visualize findings.
 * Substitute Teacher at the Russian School of Mathematics in Reston and Herndon, VA, 2019-Present
-    - Taught math team, a course in HTML, and two courses in Python
+    - Taught math team, a course in HTML, and two courses in Python. Created the curriculum for one of the Python courses using \\(\\LaTeX\\).
 * Senior Student Tutor at the Russian School of Mathematics in Winchester, MA, 2015-2019
