@@ -3,3 +3,12 @@ title: "Projects"
 date: 2022-11-19T02:05:52-05:00
 ---
 
+* [Currency Profitability Model](https://www.overleaf.com/read/rptmrcssxxzh) (February, 2022): Created a notebook with a team that used Q-Learning and self-made models to maximize profitability through purchasing either bitcoin or gold in late 2020-early 2021. Won a Meritorious Winner Award (top 8%)
+    - Tools used: RStudio, \\(\\LaTeX\\), MATLAB
+* [Show Recommendation System](https://github.com/danilka4/anime-recommendation-database-2020) (Summer, 2021): Created a collaborative filtering recommendation system for Japanese animation which predicted the top-N recommendations
+    - Tools used: RStudio, vim, git
+* [Fruit Identification Neural Network](https://www.kaggle.com/code/danielpalamarchuk/identifying-fruits-and-staleness-using-keras) (Summer, 2021): Created a convoluted neural network from scratch to classify between six different stale/fresh fruits
+    - Tools used: RStudio, vim, git
+* [Vespa Wasp Identification System](https://github.com/danilka4/MCM-2021) (February, 2021): Created a notebook with a team that used exploratory data visualization, Gaussian Naive Bayes, binary image classification, and frequency analysis models to identify Vespa Mandarinia wasps in Oregon.
+    - Tools used: RStudio, \\(\\LaTeX\\), MATLA
+* Data Visualization of Virginia Covid Cases (Summer, 2020): Created an exploratory data visualization notebook that graphed covid cases within Virginia

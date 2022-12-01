@@ -25,3 +25,6 @@ date: 2022-11-19T02:04:14-05:00
 * Senior Student Tutor at the Russian School of Mathematics in Winchester, MA, 2015-2019
 
 # Honors
+* Dean's List 2019-2022
+* VT Data Analytics Research Grant for $1500
+* Math Contest in Modeling (MCM) Meritorious Winner 2022
