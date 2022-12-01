@@ -3,6 +3,9 @@ title: "Projects"
 date: 2022-11-19T02:05:52-05:00
 ---
 
+* [Nvim Support for R Code](https://github.com/danilka4/ts_r) (November, 2022): Built a plug-in for neovim that takes advantage of nvim's integrated terminal-mode to process R code within the neovim session.
+The plugin takes advantage of R's syntax tree to allow the user to send logical lines and chunks of code to the terminal, replicating some behaviors of RStudio.
+    - Tools used: Neovim, git, [nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter)
 * [Currency Profitability Model](https://www.overleaf.com/read/rptmrcssxxzh) (February, 2022): Created a notebook with a team that used Q-Learning and self-made models to maximize profitability through purchasing either bitcoin or gold in late 2020-early 2021. Won a Meritorious Winner Award (top 8%)
     - Tools used: RStudio, \\(\\LaTeX\\), MATLAB
 * [Show Recommendation System](https://github.com/danilka4/anime-recommendation-database-2020) (Summer, 2021): Created a collaborative filtering recommendation system for Japanese animation which predicted the top-N recommendations
