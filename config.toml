@@ -17,21 +17,18 @@ theme = 'blackburn'
         weight = 1
         identifier = "about"
         url = "/"
-
-    [[menu.main]]
-        name = "Resume"
-        pre = "<i class='fa fa-list-ul'></i>"
-        weight = 2
-        identifier = "resume"
-        url = "/resume/"
-
     [[menu.main]]
         name = "Projects"
         pre = "<i class='fas fa-code'></i>"
-        weight = 3
+        weight = 2
         identifier = "projects"
         url = "/projects/"
-
+    [[menu.main]]
+        name = "CV"
+        pre = "<i class='fa fa-list-ul'></i>"
+        weight = 3
+        identifier = "Curriculum Vitae"
+        url = "/files/cv.pdf"
     [[menu.main]]
         name = "Hobbies"
         pre = "<i class='fas fa-book-reader'></i>"
