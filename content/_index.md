@@ -11,6 +11,8 @@ Currently working on obtaining a Master's of Science in CS, concentrating on Nat
 
 I have linked various parts about me on the left and attached my socials and GitHub, where one can find the source code for all the noteworthy projects I have done.
 
+I may set up a blog here at some point.
+
 The best way to get ahold of me is via email at: d4n1elp@vt.edu
 
 <center>
