@@ -3,7 +3,7 @@ title: "Projects"
 date: 2022-11-19T02:05:52-05:00
 ---
 
-* [Analysis of Virginia Climate Legislation](https://danilka4.github.io/Scerri-Lobbying-2021/) (November, 2021 - May, 2023): Analyzed Virginia state environmental bill and lobbying between 2015 and 2022.
+* [Analysis of Virginia Climate Legislation](https://danilka4.github.io/virginia-climate-lobbying/) (November, 2021 - May, 2023): Analyzed Virginia state environmental bill and lobbying between 2015 and 2022.
 Compared climate legislation to education and transportation legislation using **Chi Squared Test of Homogeneity** to check for uniqueness in bill passage rates.
 Made dashboard visualizing the disproportionate effects of committees on bill passage rates.
 **Papers on findings currently in progress**.
