@@ -7,6 +7,7 @@ date: 2022-11-19T02:05:57-05:00
 
 I scrapped windows from my laptop and installed Arch Linux on it.
 Since then I have configured a terminal-based environment based on Neovim to code, take notes, and write my essays.
+Recently set up wiki to organize my master's notes.
 
 # Reading Machine Learning and Political Theory
 
