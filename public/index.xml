@@ -1,20 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Daniel Palamarchuk on Website of Daniel Palamarchuk</title>
-    <link>https://danilka4.github.io/</link>
-    <description>Recent content in Daniel Palamarchuk on Website of Daniel Palamarchuk</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Home on Website of Daniel Palamarchuk</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in Home on Website of Daniel Palamarchuk</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 10 Nov 2022 18:49:24 -0500</lastBuildDate><atom:link href="https://danilka4.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 19 Nov 2022 02:05:57 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>About</title>
-      <link>https://danilka4.github.io/about/</link>
-      <pubDate>Thu, 10 Nov 2022 18:49:24 -0500</pubDate>
-      
-      <guid>https://danilka4.github.io/about/</guid>
-      <description>My name is Daniel Palamarchuk. This website was made using the Hugo framework and uses md.</description>
+      <title>Hobbies</title>
+      <link>http://localhost:1313/hobbies/</link>
+      <pubDate>Sat, 19 Nov 2022 02:05:57 -0500</pubDate>
+      <guid>http://localhost:1313/hobbies/</guid>
+      <description>&lt;h1 id=&#34;tinkering-with-linux-on-personal-school-laptop&#34;&gt;Tinkering with Linux on Personal School Laptop&lt;/h1&gt;&#xA;&lt;p&gt;I scrapped windows from my laptop and installed Arch Linux on it.&#xA;Since then I have configured a terminal-based environment based on Neovim to code, take notes, and write my essays.&#xA;Recently set up wiki to organize my master&amp;rsquo;s notes.&lt;/p&gt;&#xA;&lt;h1 id=&#34;reading-machine-learning-and-political-theory&#34;&gt;Reading Machine Learning and Political Theory&lt;/h1&gt;&#xA;&lt;p&gt;I have set up a shell script on my laptop that will allow me to open a reading from various books and articles I have downloaded on my laptop.&#xA;Alongside it also opens up notes for the specific reading in Neovim.&#xA;If I did not have any notes beforehand, it will open up an empty document.&lt;/p&gt;</description>
     </item>
-    
+    <item>
+      <title>Projects</title>
+      <link>http://localhost:1313/projects/</link>
+      <pubDate>Sat, 19 Nov 2022 02:05:52 -0500</pubDate>
+      <guid>http://localhost:1313/projects/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/danilka4/5914-journal-partner&#34;&gt;AI-Assisted Journaling&lt;/a&gt; (August, 2023 - December, 2023): Led team of three to create a web application for journaling.&#xA;We utilized the Chat GPT API for summarizing and leading the user&amp;rsquo;s journaling process.&#xA;I designed a user authentication system to facilitate a multi-user application use.&#xA;We also designed and deployed a SQL database with encrypted user journaling information on Google Cloud to facilitate recall.&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Tools used: Flask (Python), HTML, JavaScript, Bootstrap, MySQL, Chat GPT API, Google Cloud (GCP), GIT&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://danilka4.github.io/virginia-climate-lobbying/&#34;&gt;Analysis of Virginia Climate Legislation&lt;/a&gt; (November, 2021 - May, 2023): Analyzed Virginia state environmental bill and lobbying between 2015 and 2022.&#xA;Compared climate legislation to education and transportation legislation using &lt;strong&gt;Chi Squared Test of Homogeneity&lt;/strong&gt; to check for uniqueness in bill passage rates.&#xA;Made dashboard visualizing the disproportionate effects of committees on bill passage rates.&#xA;&lt;strong&gt;Paper on findings currently Under Review&lt;/strong&gt;.&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Tools used: R markdown, flexdashboard, plotly, neovim&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/danilka4/danilka4.github.io&#34;&gt;Personal Website&lt;/a&gt; (November, 2022): Created a personal website using Hugo.&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Tools used: Hugo, github pages, neovim&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/danilka4/ts_r&#34;&gt;Nvim Support for R Code&lt;/a&gt; (November, 2022): Built a plug-in for neovim that takes advantage of nvim&amp;rsquo;s integrated terminal-mode to process R code within the neovim session.&#xA;The plugin takes advantage of R&amp;rsquo;s syntax tree to allow the user to send logical lines and chunks of code to the terminal, replicating some behaviors of RStudio.&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Tools used: Neovim, git, &lt;a href=&#34;https://github.com/nvim-treesitter/nvim-treesitter&#34;&gt;nvim-treesitter&lt;/a&gt;, lua&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.overleaf.com/read/rptmrcssxxzh&#34;&gt;Currency Profitability Model&lt;/a&gt; (February, 2022): Created a notebook with a team that used Q-Learning and self-made models to maximize profitability through purchasing either bitcoin or gold in late 2020-early 2021. Won a Meritorious Winner Award (top 8%).&#xA;The writeup can be found &lt;a href=&#34;http://localhost:1313/files/mcm2022.pdf&#34;&gt;here&lt;/a&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Tools used: RStudio, \(\LaTeX\), MATLAB&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/danilka4/anime-recommendation-database-2020&#34;&gt;Show Recommendation System&lt;/a&gt; (Summer, 2021): Created a collaborative filtering recommendation system for Japanese animation which predicted the top-N recommendations&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Tools used: RStudio, vim, git&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.kaggle.com/code/danielpalamarchuk/identifying-fruits-and-staleness-using-keras&#34;&gt;Fruit Identification Neural Network&lt;/a&gt; (Summer, 2021): Created a convoluted neural network from scratch to classify between six different stale/fresh fruits&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Tools used: RStudio, vim, git&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/danilka4/MCM-2021&#34;&gt;Vespa Wasp Identification System&lt;/a&gt; (February, 2021):&#xA;Created a notebook with a team that used exploratory data visualization, Gaussian Naive Bayes, binary image classification, and frequency analysis models to identify Vespa Mandarinia wasps in Oregon.&#xA;The writeup can be found &lt;a href=&#34;http://localhost:1313/files/mcm2021.pdf&#34;&gt;here&lt;/a&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Tools used: RStudio, \(\LaTeX\), MATLAB&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Data Visualization of Virginia Covid Cases (Summer, 2020): Created an exploratory data visualization notebook that graphed covid cases within Virginia&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
   </channel>
 </rss>
