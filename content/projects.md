@@ -3,11 +3,16 @@ title: "Projects"
 date: 2022-11-19T02:05:52-05:00
 ---
 
+* [AI-Assisted Journaling](https://github.com/danilka4/5914-journal-partner) (August, 2023 - December, 2023): Led team of three to create a web application for journaling.
+We utilized the Chat GPT API for summarizing and leading the user's journaling process.
+I designed a user authentication system to facilitate a multi-user application use.
+We also designed and deployed a SQL database with encrypted user journaling information on Google Cloud to facilitate recall.
+    - Tools used: Flask (Python), HTML, JavaScript, Bootstrap, MySQL, Chat GPT API, Google Cloud (GCP), GIT
 * [Analysis of Virginia Climate Legislation](https://danilka4.github.io/virginia-climate-lobbying/) (November, 2021 - May, 2023): Analyzed Virginia state environmental bill and lobbying between 2015 and 2022.
 Compared climate legislation to education and transportation legislation using **Chi Squared Test of Homogeneity** to check for uniqueness in bill passage rates.
 Made dashboard visualizing the disproportionate effects of committees on bill passage rates.
-**Papers on findings currently in progress**.
-    - Tools used: Rmd, flexdashboard, neovim
+**Paper on findings currently Under Review**.
+    - Tools used: R markdown, flexdashboard, plotly, neovim
 * [Personal Website](https://github.com/danilka4/danilka4.github.io) (November, 2022): Created a personal website using Hugo.
     - Tools used: Hugo, github pages, neovim
 * [Nvim Support for R Code](https://github.com/danilka4/ts_r) (November, 2022): Built a plug-in for neovim that takes advantage of nvim's integrated terminal-mode to process R code within the neovim session.

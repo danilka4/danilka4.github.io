@@ -5,13 +5,11 @@ draft: false
 ---
 
 Hello and welcome to my personal website!
-My name is Daniel Palamarchuk and I am a student at Virginia Tech.
-I have graduated from Virginia Tech's undergraduate program with dual bachelor degrees in CS and Data Analytics.
-I recently also graduated with a Master's of Science in CS, concentrating on Natural Language Processing.
+My name is Daniel Palamarchuk, and I am a Natural Language Processing (NLP) Researcher at Virginia Tech (VT).
+I graduated from there May, 2024 with a Master's of Science in CS, concentrating on NLP.
+I also had the pleasure of attending VT's undergraduate program and got dual bachelor degrees in Computer and Data Science.
 
-I have linked various parts about me on the left and attached my socials and GitHub, where one can find the source code for all the noteworthy projects I have done.
-
-I may set up a blog here at some point.
+I have linked various parts about me on the left and attached my social media and GitHub, where one can find the source code for all the noteworthy projects I have done.
 
 The best way to get ahold of me is via email at: d4n1elp@vt.edu
 

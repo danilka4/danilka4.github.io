@@ -20,7 +20,7 @@ After I am finished with the reading, I can open up a centralized bibliography "
 # Magic: the Gathering
 
 I have played Magic since Theros in 2013, though I got more into it during Shadows of Innistrad in 2016.
-I used to play standard, and currently play modern (WB Smallpox), pauper (Mono B Zombies, among other decks), and commander (WUB Varina Zombies, among other [mostly] aggressive decks).
+I used to play standard, and currently play modern (WB Smallpox), pauper (Mono B Zombies, among other decks), and commander (WUB Varina Zombies, among other mostly aggressive decks).
 My [Tappedout](https://tappedout.net/users/MutaliskLord4) has all my decks.
 
 # Biking
