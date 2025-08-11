@@ -3,6 +3,10 @@ title: "Projects"
 date: 2022-11-19T02:05:52-05:00
 ---
 
+* [Temporal Topic Embeddings with a Compass (TTEC)](/ttec) (February 2023 - May, 2024):
+A Dynamic Topic Modeling method based off Word2vec methodology I developed as my **master's [thesis](https://hdl.handle.net/10919/119057)** and played a role in publishing to [IEEE Vis](https://doi.org/10.1109/TVCG.2024.3456143).
+It allows a person to look at how temporal words and their word vectors change in conjunction with temporally changing topics.
+This allows one to create visualizations of document embedding spaces with their topics and plot the trajectory of words in the space.
 * [AI-Assisted Journaling](https://github.com/danilka4/5914-journal-partner) (August, 2023 - December, 2023): Led team of three to create a web application for journaling.
 We utilized the Chat GPT API for summarizing and leading the user's journaling process.
 I designed a user authentication system to facilitate a multi-user application use.

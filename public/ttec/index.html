@@ -1,0 +1,285 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="">
+  <meta name="generator" content="Hugo 0.145.0">
+
+  <title>TTEC &middot; Website of Daniel Palamarchuk</title>
+
+    
+
+  
+  
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/pure/1.0.0/pure-min.css">
+
+  <!--[if lte IE 8]>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/pure/1.0.0/grids-responsive-old-ie-min.css">
+  <![endif]-->
+  <!--[if gt IE 8]><!-->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/pure/1.0.0/grids-responsive-min.css">
+  <!--<![endif]-->
+
+  <!--[if lte IE 8]>
+  <link rel="stylesheet" href="/css/side-menu-old-ie.css">
+  <![endif]-->
+  <!--[if gt IE 8]><!-->
+  <link rel="stylesheet" href="/css/side-menu.css">
+  <!--<![endif]-->
+
+  <link rel="stylesheet" href="/css/blackburn.css">
+
+  
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css">
+
+  
+  <link rel="preconnect" href="https://fonts.gstatic.com">
+  <link href="https://fonts.googleapis.com/css2?family=Raleway&display=swap" rel="stylesheet" type="text/css">
+
+  
+  <script async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.9/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+
+ 
+  
+
+  
+
+  <link rel="apple-touch-icon" sizes="180x180" href="/img/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/img/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/img/favicon-16x16.png">
+<link rel="manifest" href="/img/site.webmanifest">
+<link rel="icon" href="/img/favicon.ico" type="image/x-icon">
+
+
+  
+  
+
+</head>
+
+
+<body>
+<div id="layout">
+
+  
+<a href="#menu" id="menuLink" class="menu-link">
+  
+  <span></span>
+</a>
+<div id="menu">
+
+  
+
+  <div class="pure-menu">
+    <ul class="pure-menu-list">
+      
+      
+        <li class="pure-menu-item">
+          <a class="pure-menu-link" href="/"><i class='fas fa-home'></i>Home</a>
+      
+        </li>
+      
+      
+        <li class="pure-menu-item">
+          <a class="pure-menu-link" href="/projects/"><i class='fas fa-code'></i>Projects</a>
+      
+        </li>
+      
+      
+        <li class="pure-menu-item">
+          <a class="pure-menu-link" href="/files/cv.pdf"><i class='fa fa-list-ul'></i>CV</a>
+      
+        </li>
+      
+      
+        <li class="pure-menu-item">
+          <a class="pure-menu-link" href="/hobbies/"><i class='fas fa-book-reader'></i>Hobbies</a>
+      
+        </li>
+      
+    </ul>
+  </div>
+
+  <div class="pure-menu social">
+  <ul class="pure-menu-list">
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+    <li class="pure-menu-item">
+      <a class="pure-menu-link" href="https://instagram.com/daniel.palamarchuk" rel="me" target="_blank"><i class="fab fa-instagram fa-fw"></i>Instagram</a>
+    </li>
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+    <li class="pure-menu-item">
+      <a class="pure-menu-link" href="https://linkedin.com/in/daniel-palamarchuk" rel="me" target="_blank"><i class="fab fa-linkedin fa-fw"></i>LinkedIn</a>
+    </li>
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+    <li class="pure-menu-item">
+      <a class="pure-menu-link" href="https://github.com/danilka4" rel="me" target="_blank"><i class="fab fa-github-square fa-fw"></i>GitHub</a>
+    </li>
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+  </ul>
+</div>
+
+
+  <div>
+  <div class="small-print">
+    <small></small>
+  </div>
+  <div class="small-print">
+    <small>Built with&nbsp;<a href="https://gohugo.io/" target="_blank">Hugo</a></small>
+    <small>Theme&nbsp;<a href="https://github.com/yoshiharuyamashita/blackburn" target="_blank">Blackburn</a></small>
+  </div>
+</div>
+
+</div>
+
+
+  <div id="main">
+
+
+<div class="header">
+  <h1>TTEC</h1>
+  <h2></h2>
+</div>
+<div class="content">
+  <p>This page will give a rundown of the theoretical background and methodology of Temporal Topic Embeddings with a Compass.
+I will assume that the reader has a working knowledge of Word2vec/Doc2vec and topic modeling.
+Going off that, here are the concepts I have divided this space into, along with a short description of each:</p>
+<ul>
+<li>Temporal Word2vec - See how words change over time</li>
+<li>Dynamic topic modeling - See how topics change over time</li>
+<li>Compass-Aligned Distributional Embeddings - A temporal embedding model paradigm that achieves alignment through freezing the output layer</li>
+<li>Temporal Word Embeddings with a Compass - CADE applied to Word2vec</li>
+<li>Temporal Document Embeddings with a Compass - CADE applied to Doc2vec</li>
+<li>Temporal Topic Embeddings with a Compass - CADE expanded to dynamic topic modeling</li>
+</ul>
+<h1 id="temporal-word2vec">Temporal Word2vec</h1>
+<p>Word2vec is based off the &ldquo;distributional hypothesis.&rdquo;
+This means that words are defined in terms of their environment (surrounding words).
+Temporal Word2vec notices that the environment a word is used in changes over time.
+Similar words across different slices should have similar vectors.
+So, if a different person occupies a position across time slices, the model should capture it.
+For example, &ldquo;Obama&rdquo; in 2009 has a vector similar to &ldquo;Bush&rdquo; in 2008.
+If a word&rsquo;s context changes between slices, the vector also changes.
+This allows for the tracking of a word over time as new contexts develop where it is used.
+For example, Blackberry and Apple both &ldquo;turn&rdquo; from food into IT words.</p>
+<h1 id="dynamic-topic-modelling">Dynamic Topic Modelling</h1>
+<p>Work in Progress</p>
+<h1 id="compass-aligned-distributional-embeddings-cade">Compass-Aligned Distributional Embeddings (CADE)</h1>
+<p>CADE is a family of temporal algorithms that aligns with a compass.
+The base of the compass is a shallow neural network word/doc2vec model trained on all the text data.
+Afterward, each time slice can be trained using the hidden layer of the compass.
+Since the hidden layer is the same for all time slices, obtaining similar outcomes per slice requires similar inputs.
+Thus, this method achieves temporal embedding stability.
+It was initially proposed by Bianchi et al. (2020) with TWEC, which uses Word2vec.
+Palamarchuk (2024, 19–24) later expands the method to documents and topics in TDEC and TTEC.</p>
+<h1 id="temporal-word-embeddings-with-a-compass-twec">Temporal Word Embeddings with a Compass (TWEC)</h1>
+<p>TWEC is a CADE algorithm for temporal word2vec from Di Carlo, Bianchi, and Palmonari (2019). It starts off by training a compass, which is a word2vec model trained off an entire text corpus. The compass’ hidden/output layer is frozen and used as the hidden layer of each local time slice. A local time slice is initiated as a word2vec model with the hidden layer of the compass. It is then trained on the data in the local time slice and creates local word vectors. The compass layer ensures similar words between slices have similar slices, despite being different models.</p>
+<h1 id="temporal-document-embeddings-with-a-compass-tdec">Temporal Document Embeddings with a Compass (TDEC)</h1>
+<p>TDEC is a CADE algorithm for temporal doc2vec from Palamarchuk (2024, 16–19) (Palamarchuk et al. 2025, 274–75). It starts off by training a compass, which is a doc2vec model trained off an entire text corpus. The hidden layer of that doc2vec model is frozen and used as the hidden layer of each time slice. Functionally, it is the same as TWEC except with its Word2vec models replaced by Doc2vec.</p>
+<h1 id="temporal-topic-embeddings-with-a-compass-ttec">Temporal Topic Embeddings with a Compass (TTEC)</h1>
+<p>TTEC is a CADE algorithm for dynamic topics from Palamarchuk (2024, 19–24).
+It starts off by training a compass, which is a TDEC compass with a UMAP and HDBSCAN topic space.
+The global topic space is created using the compass document vectors.
+The global topic descriptors are the closest word vectors to the document vectors per topic.
+Time slices start off as TDEC slices trained from the global TDEC compass.
+Local topic spaces are created by placing local document vectors in the global topic space.
+Finally, local topic descriptors are made using local word vectors.</p>
+<h1 id="bibliography">Bibliography</h1>
+<p>Bianchi, Federico, Valerio Di Carlo, Paolo Nicoli, and Matteo Palmonari. 2020. “Compass-Aligned Distributional Embeddings for Studying Semantic Differences Across Corpora.” <em>arXiv Preprint arXiv:2004.06519</em>.</p>
+<p>Di Carlo, Valerio, Federico Bianchi, and Matteo Palmonari. 2019. “Training Temporal Word Embeddings with a Compass.” In <em>Proceedings of the AAAI Conference on Artificial Intelligence</em>, 33:6326–34. <a href="https://aaai.org/papers/06326-training-temporal-word-embeddings-with-a-compass/">https://aaai.org/papers/06326-training-temporal-word-embeddings-with-a-compass/</a>.</p>
+<p>Palamarchuk, Daniel. 2024. “Temporal Topic Embeddings with a Compass.” Master’s thesis, Virginia Tech. <a href="https://hdl.handle.net/10919/119057">https://hdl.handle.net/10919/119057</a>.</p>
+<p>Palamarchuk, Daniel, Lemara Williams, Brian Mayer, Thomas Danielson, Rebecca Faust, Larry Deschaine, and Chris North. 2025. “Visualizing Temporal Topic Embeddings with a Compass.” <em>IEEE Transactions on Visualization and Computer Graphics</em> 31 (1): 272–82. <a href="https://doi.org/10.1109/TVCG.2024.3456143">https://doi.org/10.1109/TVCG.2024.3456143</a>.</p>
+<h1 id="citation-information">Citation Information</h1>
+<p>Work in Progress</p>
+
+</div>
+
+</div>
+</div>
+<script src="http://localhost:1313/js/ui.js"></script>
+<script src="http://localhost:1313/js/menus.js"></script>
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>
+

@@ -4,6 +4,11 @@ title = 'Website of Daniel Palamarchuk'
 theme = 'blackburn'
 [Params]
     subtitle = "Personal Website"
+    [Params.Social]
+        linkedin = "daniel-palamarchuk"
+        github   = "danilka4"
+        instagram= "daniel.palamarchuk"
+        googlescholar = "3b61S5wAAAAJ"
 
 [markup]
     [markup.goldmark]
@@ -36,8 +41,3 @@ theme = 'blackburn'
         identifier = "hobbies"
         url = "/hobbies/"
 
-[social]
-    linkedin = "daniel-palamarchuk"
-    github   = "danilka4"
-    instagram= "daniel.palamarchuk"
-    googlescholar = "3b61S5wAAAAJ"
