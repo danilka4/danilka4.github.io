@@ -12,7 +12,8 @@ Before UMD, I graduated from Virginia Tech (VT) in May 2024 with MS CS.
 There, I was advised by [Dr. Chris North](https://people.cs.vt.edu/north/) and researched **dynamic topic modeling**.
 Specifically, I developed a cluster-based for temporally aligned word and doc2vec topic discovery.
 
-I also had the pleasure of attending VT's undergraduate program, where I graduated in May 2023 with dual bachelor degrees in Computer and Data Science and minors in political science and math.
+I hold *dual* bachelor degrees in Computer and Data Science from VT as well.
+During my time there, I also received minors in political science and math.
 
 Various parts about me are linked on the left, including my social media and GitHub (for source code, go there).
 The best way to get ahold of me is via email at: dpalam at umd dot edu
