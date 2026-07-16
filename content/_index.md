@@ -20,6 +20,7 @@ During my time there, I received minors in political science and math.
 I researched Virginia state lobbying and its effect on environmental bill passage rates.
 
 Various parts about me are linked on the left, including my social media and GitHub (for source code, go there).
+I am between 10 and 80 years old.
 The best way to get ahold of me is via email at: dpalam at umd dot edu
 
 <center>
