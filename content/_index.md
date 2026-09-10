@@ -5,7 +5,7 @@ draft: false
 ---
 
 Hello and welcome to my personal website!
-My name is Daniel Palamarchuk, and I am a 1st year PhD Computer Science (CS) student at the University of Maryland (UMD).
+My name is Daniel Palamarchuk, and I am a 2nd year PhD Computer Science (CS) student at the University of Maryland (UMD).
 I am advised by [Dr. Cody Buntain](https://cody.bunta.in/) and collaborating with [Dr. Sarah Wiegreffe](https://sarahwie.github.io/).
 I am currently working on:
 * Analyzing Ukrainian social media patterns through dynamic networks and topics following Russia's 2022 invasion
